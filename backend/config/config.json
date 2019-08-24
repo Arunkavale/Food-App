@@ -1,0 +1,8 @@
+{
+ 
+    "development": {
+      "MONGODB_URI": "mongodb://localhost:27017/foodApp",
+      "JWT_SECRET": "foodDelevery"
+    }
+  }
+  
