@@ -1,10 +1,13 @@
-# MyPr
+# Food App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+please install mongodb , nodejs ,  and all dependencies useing npm install
+
+# Staring backend server
+ for starting backend server usr npm start:server command and server will start on port 3443 (http://localhost:3443)
+
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+for starting frontend server use npm start command and open `http://localhost:4224/` in browser
 
 ## Code scaffolding
 
