@@ -44,7 +44,7 @@
     "nodemailer": "^6.3.0",
     "nodemon": "^1.19.1",
     "rxjs": "6.0.0",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
